@@ -1,1 +1,23 @@
-
+Items = Helm, Shoulder, Body, Belt, Glove, Leggings, Feet, Neck, Finger, Potion, Scroll, CraftingMaterial, 
+//Tier = Normal, Exeptional, Elite
+Type_Helm_Normal_Name =        Cap,     Helm,     Crown,       Circlet, Mask,
+Type_Helm_Exceptional_Name =   War Hat, Basinet,  Grand Crown, Glorie,  Death Mask,
+Type_Helm_Elite_Name =         Shako,   Casque,   Corona,      Diadem,  Demonhead,
+Type_Shoulder_Normal = 
+Type_Shoulder_Exceptional:
+Type_Shoulder_Elite:
+Type_Body_Normal:
+Type_Body_Exceptional:
+Type_Body_Elite:
+Type_Belt_Normal_Name =
+Type_Belt_Exceptional_Name =
+Type_Belt_Elite_Name =
+Type_Glove_Normal_Name =
+Type_Glove_Exceptional_Name =
+Type_Glove_Elite_Name =
+Type_Leggings_Normal_Name =
+Type_Leggings_Exceptional_Name =
+Type_Leggings_Elite_Name =
+Type_Feet_Normal_Name =
+Type_Feet_Exceptional_Name =
+Type_Feet_Elite_Name =
