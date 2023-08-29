@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int mail ()
+{
+    count <<Hello World!";
+
+    return 0;
+}
