@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    double a, b, c, d, x, result;
+
+    // Get user input for coefficients
+    cout << "Enter coefficient a: ";
+    cin >> a;
+    cout << "Enter coefficient b: ";
+    cin >> b;
+    cout << "Enter coefficient c: ";
+    cin >> c;
+    cout << "Enter coefficient d: ";
+    cin >> d;
+
+    // Get user input for x value
+    cout << "Enter the value of x: ";
+    cin >> x;
+
+    // Calculate the polynomial value
+    result = a*x*x*x + b*x*x + c*x + d;
+
+    // Print the result
+    cout << "The result is: " << result << endl;
+
+    return 0;
+}
